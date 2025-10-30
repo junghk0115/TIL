@@ -1,0 +1,1 @@
+![[7-AdvancedSQL-ch5.pdf]]

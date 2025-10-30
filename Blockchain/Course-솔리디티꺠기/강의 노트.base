@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - file.folder == "Blockchain/Course-솔리디티꺠기"
+    order:
+      - file.name
+      - file.ctime
+      - file.ext
+      - file.mtime
+      - file.path
+      - file.tags
+  - type: cards
+    name: 뷰
