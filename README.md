@@ -1,16 +1,30 @@
-# Today I Learned 📚  
+# TIL (Today I Learned) 📚 
 
-이 저장소는 책이나 강의를 통해 새롭게 배운 내용을 즉시 기록하기 위해 만든 공간입니다. 주제별로 디렉터리를 나누어 관리합니다.  
+책, 강의, 실습 중 새로 알게 된 내용을 주제별로 쌓아가는 중입니다. 
 
 ## 📂 디렉터리 구조  
 ```
-├─ blockchain/          # 블록체인 & Web3  
-├─ ai-ml/               # AI & Machine Learning  
-├─ backend/             # 백엔드 개발  
-└─ cs-fundamentals/     # 알고리즘, 자료구조, OS, 네트워크  
+├─ AI/              # 인공지능 & 머신러닝  
+├─ Blockchain/      # 블록체인 & Web3  
+└─ CS/              # 알고리즘, 자료구조, OS, 네트워크  
 ```
 
-## ✍️ 기록 방식  
-- 각 카테고리의 폴더 아래에 Markdown 파일로 학습 내용을 정리합니다.  
-- 책이나 강의 등을 공부하는 즉시 간결하게 기록합니다.  
-- 꾸준히 학습하고 기록하는 것을 목표로 합니다.
+## Blockchain
+- Lecture_솔리디티-깨부수기
+	*(25. 11. 4 ~ 진행 중)*
+	→ Solidity 언어를 기초부터 실습 중심으로 학습
+
+
+## AI
+- Book_요즘-AI-에이전트-개발
+	*(25. 11. 4 ~ 진행 중)*
+
+---
+
+###  Last Updated
+**2025.11.04**
+
+### Contact
+📧 **Email** — [hyegyojung@gmail.com](mailto:hyegyojung@gmail.com)
+📰 **Tech Blog** — [dev-makeit.tistory.com](https://dev-makeit.tistory.com)
+🐦 **X (Twitter)** — [@willmake_it](https://x.com/willmake_it)
