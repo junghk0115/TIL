@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - file.hasTag("Blog")
+        - file.hasTag("TODO")
+    order:
+      - file.name
+      - file.backlinks
+      - file.ctime
+    columnSize:
+      file.name: 331
+      file.backlinks: 393

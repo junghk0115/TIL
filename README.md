@@ -12,12 +12,11 @@
 
 ## Blockchain
 
-- Lecture\_솔리디티-깨부수기<br>_(25. 11. 4 ~ 진행 중)_<br>→ Solidity 언어를 기초부터 실습 중심으로 학습
+- Lecture\_솔리디티 깨부수기<br>_(25. 11. 4 ~ 진행 중)_<br>→ Solidity 언어를 기초부터 실습 중심으로 학습
 
 ## AI
 
-- Book\_요즘-AI-에이전트-개발
-  _(25. 11. 4 ~ 진행 중)_
+- Book_요즘 AI 에이전트 개발, LLM RAG ADK MCP LangChain A2A LangGraph <br>*(25. 11. 4 ~ 진행 중)*
 
 ---
 
