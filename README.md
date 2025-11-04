@@ -10,9 +10,7 @@
 ```
 
 ## Blockchain
-- Lecture_솔리디티-깨부수기
-		*(25. 11. 4 ~ 진행 중)*
-		→ Solidity 언어를 기초부터 실습 중심으로 학습
+- Lecture_솔리디티-깨부수기<br>*(25. 11. 4 ~ 진행 중)*<br>→ Solidity 언어를 기초부터 실습 중심으로 학습
 
 
 ## AI
@@ -22,11 +20,11 @@
 ---
 
 ###  Last Updated
-**2025.11.04**
+2025.11.04
 
 ### Contact
-📧 **Email** — [hyegyojung@gmail.com](mailto:hyegyojung@gmail.com)
+📧 Email — [hyegyojung@gmail.com](mailto:hyegyojung@gmail.com)
 
-📰 **Tech Blog** — [dev-makeit.tistory.com](https://dev-makeit.tistory.com)
+📰 Tech Blog — [dev-makeit.tistory.com](https://dev-makeit.tistory.com)
 
-🐦 **X (Twitter)** — [@willmake_it](https://x.com/willmake_it)
+🐦 X (Twitter) — [@willmake_it](https://x.com/willmake_it)
