@@ -11,13 +11,13 @@
 
 ## Blockchain
 - Lecture_솔리디티-깨부수기
-	*(25. 11. 4 ~ 진행 중)*
-	→ Solidity 언어를 기초부터 실습 중심으로 학습
+		*(25. 11. 4 ~ 진행 중)*
+		→ Solidity 언어를 기초부터 실습 중심으로 학습
 
 
 ## AI
 - Book_요즘-AI-에이전트-개발
-	*(25. 11. 4 ~ 진행 중)*
+		*(25. 11. 4 ~ 진행 중)*
 
 ---
 
@@ -26,5 +26,7 @@
 
 ### Contact
 📧 **Email** — [hyegyojung@gmail.com](mailto:hyegyojung@gmail.com)
+
 📰 **Tech Blog** — [dev-makeit.tistory.com](https://dev-makeit.tistory.com)
+
 🐦 **X (Twitter)** — [@willmake_it](https://x.com/willmake_it)
